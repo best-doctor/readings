@@ -13,6 +13,7 @@
 - [Django REST Framework](https://github.com/best-doctor/readings/blob/master/topics/drf.md)
 - [Django ORM](https://github.com/best-doctor/readings/blob/master/topics/django_orm.md)
 - [Типы в Python](https://github.com/best-doctor/readings/blob/master/topics/types.md)
+- [Безопасность веб-приложений](https://github.com/best-doctor/readings/blob/master/topics/web_security.md)
 
 ## Вакансии
 
