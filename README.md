@@ -19,6 +19,7 @@
 - [Типы в Python](https://github.com/best-doctor/readings/blob/master/topics/types.md)
 - [Безопасность веб-приложений](https://github.com/best-doctor/readings/blob/master/topics/web_security.md)
 - [Выгорание и work-life баланс](https://github.com/best-doctor/readings/blob/master/topics/burnout.md)
+- [Дизайн API](https://github.com/best-doctor/readings/blob/master/topics/api_design.md)
 
 ## Вакансии
 
