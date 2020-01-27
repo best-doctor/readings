@@ -1,0 +1,8 @@
+language: python
+python:
+  - "3.6"
+before_script:
+  - gem install awesome_bot mdl
+  - pip install rozental-as-a-service==0.3.0
+script:
+  - make check
