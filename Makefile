@@ -1,5 +1,5 @@
 check:
-	make links style typos
+	make style typos links
 
 links:
 	awesome_bot README.md topics/*.md --skip-save-results --allow-redirect
