@@ -14,6 +14,7 @@
 - [Django ORM](https://github.com/best-doctor/readings/blob/master/topics/django_orm.md)
 - [Типы в Python](https://github.com/best-doctor/readings/blob/master/topics/types.md)
 - [Безопасность веб-приложений](https://github.com/best-doctor/readings/blob/master/topics/web_security.md)
+- [Выгорание и work-life баланс](https://github.com/best-doctor/readings/blob/master/topics/burnout.md)
 
 ## Вакансии
 
