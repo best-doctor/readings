@@ -22,6 +22,7 @@
 - [Дизайн API](https://github.com/best-doctor/readings/blob/master/topics/api_design.md)
 - [Типы тестов](https://github.com/best-doctor/readings/blob/master/topics/tests_types.md)
 - [Чистая архитектура](https://github.com/best-doctor/readings/blob/master/topics/clean_architecture.md)
+- [Кодревью](https://github.com/best-doctor/readings/blob/master/topics/clean_architecture.md)
 
 ## Вакансии
 
