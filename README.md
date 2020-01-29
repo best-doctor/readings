@@ -25,7 +25,7 @@
 - [Кодревью](https://github.com/best-doctor/readings/blob/master/topics/code_review.md)
 - [Микросервисы](https://github.com/best-doctor/readings/blob/master/topics/microservices.md)
 - [Написание тестов](https://github.com/best-doctor/readings/blob/master/topics/writing_tests.md)
-- [Статический анализ кода](https://github.com/best-doctor/readings/blob/master/topics/writing_tests.md)
+- [Статический анализ кода](https://github.com/best-doctor/readings/blob/master/topics/static_code_analysis.md)
 
 ## Вакансии
 
