@@ -24,6 +24,8 @@
 - [Чистая архитектура](https://github.com/best-doctor/readings/blob/master/topics/clean_architecture.md)
 - [Кодревью](https://github.com/best-doctor/readings/blob/master/topics/code_review.md)
 - [Микросервисы](https://github.com/best-doctor/readings/blob/master/topics/microservices.md)
+- [Написание тестов](https://github.com/best-doctor/readings/blob/master/topics/writing_tests.md)
+- [Статический анализ кода](https://github.com/best-doctor/readings/blob/master/topics/writing_tests.md)
 
 ## Вакансии
 
