@@ -20,6 +20,7 @@
 - [Безопасность веб-приложений](https://github.com/best-doctor/readings/blob/master/topics/web_security.md)
 - [Выгорание и work-life баланс](https://github.com/best-doctor/readings/blob/master/topics/burnout.md)
 - [Дизайн API](https://github.com/best-doctor/readings/blob/master/topics/api_design.md)
+- [Типы тестов](https://github.com/best-doctor/readings/blob/master/topics/tests_types.md)
 
 ## Вакансии
 
