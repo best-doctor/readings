@@ -25,7 +25,4 @@
   который снижает частоту подгорания стульев в команде.
 - [Распространенные проблемы при код-ревью](https://www.michaelagreiler.com/code-review-pitfalls-slow-down/),
   как личные, так и организационные.
-- Две небольшие статьи-наброса о концепции "владения кодом",
-  читать подряд.
-  [Почему владелец (участка) кода должен быть один](https://medium.com/@ard_adam/code-reviews-are-broken-here-is-how-to-fix-them-c34497f1721b).
-  [Почему единоличное владение кодом плохо](https://www.freecodecamp.org/news/why-code-ownership-sucks-and-you-should-never-work-somewhere-that-practices-it-b8fc1c694074/).
+- [Почему единоличное владение кодом плохо](https://www.freecodecamp.org/news/why-code-ownership-sucks-and-you-should-never-work-somewhere-that-practices-it-b8fc1c694074/).
