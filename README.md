@@ -30,12 +30,6 @@
 ## Вакансии
 
 Приходите к нам, у нас кроме линкопостов есть ещё много чего прикольного.
-Сейчас мы ищем:
+Наши актуальные вакансии: https://www.notion.so/bestdoctor/BestDoctor-hires-b3b105ea12ff4a568cc3bcc55f27c104 
 
-- питонистов ([middle](https://hh.ru/vacancy/35286646),
-  [senior](https://hh.ru/vacancy/35287064) и
-  [лидов](https://hh.ru/vacancy/35287422));
-- мобильных разработчиков ([iOS](https://hh.ru/vacancy/35531959?)
-  и [Android](https://hh.ru/vacancy/35531970)).
-
-По всем вопросам можно писать в телеграм Илье (@ilebedev_bestdoctor).
+По всем вопросам можно писать в телеграм нашему HR (@YuliaITHR).
